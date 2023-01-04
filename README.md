@@ -6,12 +6,6 @@ A template for creating typescript-react apps using [vite]( https://vitejs.dev/ 
 ```
 degit danjvarela/vite-react-typescript-template <optional clone path>
 ```
-### Manual
-```
-git clone https://github.com/danjvarela/vite-react-typescript-template.git
-cd vite-react-typescript-template
-git remote rm origin
-```
 
 ## Features
 * [X] Built-in eslint config using the [Airbnb style guide](https://github.com/airbnb/javascript) and support for typescript.
