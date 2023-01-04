@@ -9,6 +9,7 @@ degit danjvarela/vite-react-typescript-template
 ### Manual
 ```
 git clone https://github.com/danjvarela/vite-react-typescript-template.git
+cd vite-react-typescript-template
 git remote rm origin
 ```
 
