@@ -2,9 +2,9 @@
 A template for creating typescript-react apps using [vite]( https://vitejs.dev/ ).
 
 ## Installation
-### Using degit
+### Using [degit ](https://github.com/Rich-Harris/degit)(suggested)
 ```
-degit danjvarela/vite-react-typescript-template
+degit danjvarela/vite-react-typescript-template <optional clone path>
 ```
 ### Manual
 ```
